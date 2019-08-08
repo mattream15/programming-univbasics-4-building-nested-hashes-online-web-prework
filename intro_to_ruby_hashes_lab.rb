@@ -33,8 +33,8 @@ def monopoly_with_third_tier
       },
       {
     :africa => {
-      "Ghana" => {:capital},
-      "Nigeria" => {}
+      "Ghana" => {:capital, :climate},
+      "Nigeria" => {:capital, :climate}
     }
   }
 end
