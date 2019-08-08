@@ -27,7 +27,7 @@ def monopoly_with_second_tier
 def monopoly_with_third_tier
   countries_and_capitals_of_the_world = {
     :north_america => {
-      "Canada" => {:capital:},
+      "Canada" => {:capital},
       "USA" => {}
       },
       {
