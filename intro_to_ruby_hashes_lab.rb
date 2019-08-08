@@ -9,7 +9,7 @@ end
 
 def monopoly_with_second_tier
   countries_and_capitals_of_the_world = {
-    :north_america => {"Canada"},
+    :north_america => {"Canada"}, {USA}
     :africa => {}
   }
   # When you start writing the implementation for this method, copy the Hash
