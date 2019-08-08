@@ -64,10 +64,10 @@ def monopoly_with_fourth_tier
     :africa => {
       "Ghana" => {
         :capital => "Accra",
-        :capital_climate => ""},
+        :capital_climate => "Kőppen Aw"},
       "Nigeria" => {
         :capital => "Abuja",
-        :capital_climate => ""}
+        :capital_climate => "Kőppen Aw"}
     }
   }
   # When you start writing the implementation for this method, copy the Hash
