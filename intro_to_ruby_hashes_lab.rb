@@ -66,7 +66,7 @@ def monopoly_with_fourth_tier
         :capital => "Accra",
         :capital_climate => ""},
       "Nigeria" => {
-        :capital => "",
+        :capital => "Abuja",
         :capital_climate => ""}
     }
   }
