@@ -9,8 +9,8 @@ end
 
 def monopoly_with_second_tier
   countries_and_capitals_of_the_world = {
-    :north_america,
-    :africa
+    :north_america => {"Canada"},
+    :africa => {}
   }
   # When you start writing the implementation for this method, copy the Hash
   # you built in the previous method. Run the tests. They will fail, but
