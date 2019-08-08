@@ -57,7 +57,7 @@ def monopoly_with_fourth_tier
         :capital => "Ottawa",
         :capital_climate => "Kőppen Dfb"},
       "USA" => {
-        :capital => "",
+        :capital => "Washington D.C.",
         :capital_climate => ""}
       },
       {
