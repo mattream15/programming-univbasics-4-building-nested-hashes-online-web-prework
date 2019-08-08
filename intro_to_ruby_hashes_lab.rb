@@ -44,7 +44,6 @@ def monopoly_with_third_tier
         :capital_climate => ""}
     }
   }
-end
   # When you start writing the implementation for this method, copy the Hash
   # you built in the previous method. Run the tests. They will fail, but
   # they'll guide you in how to modify what you just did to have more
@@ -52,6 +51,25 @@ end
 end
 
 def monopoly_with_fourth_tier
+  countries_and_capitals_of_the_world = {
+    :north_america => {
+      "Canada" => {
+        :capital => "",
+        :capital_climate => ""},
+      "USA" => {
+        :capital => "",
+        :capital_climate => ""}
+      },
+      {
+    :africa => {
+      "Ghana" => {
+        :capital => "",
+        :capital_climate => ""},
+      "Nigeria" => {
+        :capital => "",
+        :capital_climate => ""}
+    }
+  }
   # When you start writing the implementation for this method, copy the Hash
   # you built in the previous method. Run the tests. They will fail, but
   # they'll guide you in how to modify what you just did to have more
