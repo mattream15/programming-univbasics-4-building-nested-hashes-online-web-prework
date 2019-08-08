@@ -28,7 +28,7 @@ def monopoly_with_third_tier
   countries_and_capitals_of_the_world = {
     :north_america => {
       "Canada" => {
-        :capital => "", 
+        :capital => "",
         :capital_climate => ""},
       "USA" => {
         :capital => "",
@@ -37,10 +37,10 @@ def monopoly_with_third_tier
       {
     :africa => {
       "Ghana" => {
-        :capital => "", 
+        :capital => "",
         :capital_climate => ""},
       "Nigeria" => {
-        :capital => "", 
+        :capital => "",
         :capital_climate => ""}
     }
   }
